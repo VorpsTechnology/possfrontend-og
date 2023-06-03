@@ -67,6 +67,7 @@
       "react-app/jest"
     ]
   },
+  "main": "dist/cjs",
   "browserslist": {
     "production": [
       ">0.2%",
